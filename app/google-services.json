@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "452356489543",
+    "firebase_url": "https://payeat3.firebaseio.com",
+    "project_id": "payeat3",
+    "storage_bucket": "payeat3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452356489543:android:00530e3a611587ef",
+        "android_client_info": {
+          "package_name": "boraelci.payeat1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452356489543-9km3ggj0g6hfek3e689ghvs43vr8u2ij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boraelci.payeat1",
+            "certificate_hash": "889d1d21192bfc6ee42c98c6dd32d9e390bcbb68"
+          }
+        },
+        {
+          "client_id": "452356489543-4mo24cq96ht6pmsmqf38phr2vf5dclvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWs8JQW3sQywypw9H_tOuhVJvYB7_yec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452356489543-4mo24cq96ht6pmsmqf38phr2vf5dclvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
