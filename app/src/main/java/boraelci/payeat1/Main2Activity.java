@@ -93,6 +93,8 @@ public class Main2Activity extends AppCompatActivity {
             //String password = PasswordEt.getText().toString();
             String type = "login";
 
+            WOWOWO NABEr
+
 
             //KAYDETME KISMI BAŞLAR
 
